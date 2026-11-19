@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://batloung-farm-management-system-production-650dc04b.up.railway.app/api";
 
 const emptyData = {
   fruits: [],
